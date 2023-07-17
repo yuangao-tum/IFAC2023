@@ -10,3 +10,4 @@ https://github.com/Yuan28082021/IFAC2023/assets/89707029/f765e8f5-73d3-4862-8e53
 
 Slides in IFAC World Congress 2023, July 11, Yokohama, JAPAN
 
+[ifac2023.pdf](https://github.com/Yuan28082021/IFAC2023/files/12067480/ifac2023.pdf)
