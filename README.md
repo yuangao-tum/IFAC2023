@@ -23,3 +23,14 @@ https://github.com/Yuan28082021/IFAC2023/assets/89707029/f765e8f5-73d3-4862-8e53
 ## Slides in IFAC World Congress 2023, July 11, Yokohama, JAPAN 
 [ifac2023.pdf](https://github.com/yuan2023-control/IFAC2023/blob/main/ifac2023.pdf)
 
+## Reference
+> @article{gao2023h2,
+  title={H2 suboptimal leader-follower consensus control of multi-agent systems},
+  author={Gao, Yuan and Jiao, Junjie and Hirche, Sandra},
+  journal={IFAC-PapersOnLine},
+  volume={56},
+  number={2},
+  pages={2614--2619},
+  year={2023},
+  publisher={Elsevier}
+}
